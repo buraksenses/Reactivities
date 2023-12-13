@@ -1,13 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "K63QPtcMc49OOXTqduP+Z3OTo4tDGgORWx9xUhKOGdhZf4wNtQ6YNnJQsMDdqD9HGDUjBVyLT2VwkVJMV/mRfw==",
+  "dgSpecHash": "kqgiZlQEvy+33PShf7ubE5oQS0a/OcpctUf4iRQKXbRWCYO8fx0FSA4MRS/Srwvp0aAfP68aAJ+mw6jNQm/6BA==",
   "success": true,
   "projectFilePath": "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Backend\\Reactivities\\Reactivities.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Burak\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\mediatr\\12.2.0\\mediatr.12.2.0.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",
+    "C:\\Users\\Burak\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.14\\microsoft.data.sqlite.core.7.0.14.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.14\\microsoft.entityframeworkcore.7.0.14.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.14\\microsoft.entityframeworkcore.abstractions.7.0.14.nupkg.sha512",
