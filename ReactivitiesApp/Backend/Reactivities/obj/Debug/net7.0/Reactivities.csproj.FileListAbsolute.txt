@@ -139,3 +139,5 @@ Z:\.NET Projects\Reactivities\ReactivitiesApp\Backend\Reactivities\obj\Debug\net
 Z:\.NET Projects\Reactivities\ReactivitiesApp\Backend\Reactivities\bin\Debug\net7.0\MediatR.dll
 Z:\.NET Projects\Reactivities\ReactivitiesApp\Backend\Reactivities\bin\Debug\net7.0\MediatR.Contracts.dll
 Z:\.NET Projects\Reactivities\ReactivitiesApp\Backend\Reactivities\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+Z:\.NET Projects\Reactivities\ReactivitiesApp\Backend\Reactivities\bin\Debug\net7.0\AutoMapper.dll
+Z:\.NET Projects\Reactivities\ReactivitiesApp\Backend\Reactivities\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
