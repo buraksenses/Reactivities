@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2SaW7i5pHyebbm1Xm3WxdRQvAweCeZnfkUNhEz5+giZxIz1oUxSMsmjUtt39GS32iJlr6cJNuDIfeAxq32Qm7w==",
+  "dgSpecHash": "zpThVVwT/0dJtV1Rm+51cTGpx5N5t8rYMSygO0476Kzpi8dHIPZxs0qvU52RFQpNhgTbZdDvJPCoVeKphW3kiw==",
   "success": true,
-  "projectFilePath": "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Reactivities\\Reactivities.csproj",
+  "projectFilePath": "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Backend\\Reactivities\\Reactivities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Burak\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Burak\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.14\\microsoft.aspnetcore.openapi.7.0.14.nupkg.sha512",

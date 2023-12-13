@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Reactivities\\Reactivities.csproj": {}
+    "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Backend\\Reactivities\\Reactivities.csproj": {}
   },
   "projects": {
-    "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Reactivities\\Reactivities.csproj": {
+    "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Backend\\Reactivities\\Reactivities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Reactivities\\Reactivities.csproj",
+        "projectUniqueName": "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Backend\\Reactivities\\Reactivities.csproj",
         "projectName": "Reactivities",
-        "projectPath": "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Reactivities\\Reactivities.csproj",
+        "projectPath": "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Backend\\Reactivities\\Reactivities.csproj",
         "packagesPath": "C:\\Users\\Burak\\.nuget\\packages\\",
-        "outputPath": "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Reactivities\\obj\\",
+        "outputPath": "Z:\\.NET Projects\\Reactivities\\ReactivitiesApp\\Backend\\Reactivities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Burak\\AppData\\Roaming\\NuGet\\NuGet.Config"
